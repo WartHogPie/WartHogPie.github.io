@@ -75,3 +75,10 @@ h1{
     display: grid;
     grid-template-columns: 7% 60% 13% 20%;
 }
+
+.subforum-divider{
+    display: block;
+    border: 0;
+    height: 5px;
+    color: #FEFEFE;
+}
