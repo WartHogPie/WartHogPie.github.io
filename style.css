@@ -16,30 +16,10 @@ a{
     text-decoration: none;
 }
 
-b{
-    color: #FEFEFE;
-}
-
-i{
-    color: #FEFEFE;
-}
-
 h1{
     font-size: 16px;
     font-weight: bolder;
     color: #FEFEFE
-}
-
-p{
-    color: #FEFEFE;
-}
-
-span{
-    color: #FEFEFE;
-}
-
-small{
-    color: #FEFEFE;
 }
 
 /* home.html */
@@ -60,6 +40,19 @@ small{
     margin: 4px;
 }
 
+.subforum-description{
+    margin-block: 0;
+    color: #FEFEFE;
+}
+
+.subforum-stats{
+    color: #FEFEFE;
+}
+
+.subforum-info{
+    color: #FEFEFE;
+}
+
 .subforum-column{
     padding: 10px;
     margin: 4px;
@@ -75,6 +68,7 @@ small{
 
 .subforum-icon i{
     font-size: 45px;
+    color: #FEFEFE;
 }
 
 .subforum-row{
