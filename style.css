@@ -1,1 +1,17 @@
+/* global */
 
+*{
+    box-sizing: border-box;
+}
+
+html{
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(0,0,0);
+    color: #FEFEFE;
+}
+
+a{
+    color: #FF0042;
+    font-weight: bolder;
+}
