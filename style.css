@@ -78,7 +78,6 @@ h1{
 
 .subforum-divider{
     display: block;
-    border: 1px;
-    height: 5px;
+    border-top: 1px solid #FEFEFE;
     color: #FEFEFE;
 }
